@@ -17,6 +17,7 @@ public class StudentRepo {
      */
     public static void main(String[] args) {
         System.out.println("Github Interaction");
+        StudentType std= new StudentType("domestic","STD-4464661");
               
     }
     
